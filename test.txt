@@ -4,6 +4,6 @@
 int main()
 {
 std::cout<<"hello c++.\n";
-std::cout<<"hot-fix\n";
+std::cout<<"master.\n";
 return 0;
 }
