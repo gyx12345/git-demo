@@ -3,6 +3,7 @@
 
 int main()
 {
-std::cout<<"hello c++.";
+std::cout<<"hello c++.\n";
+std::cout<<"hot-fix\n";
 return 0;
 }
